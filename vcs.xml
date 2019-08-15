@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/lt5201314/workspace-idea.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/groupyizu/fruitShop.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\金科Java\六月份\1902B实训一讲课" />
